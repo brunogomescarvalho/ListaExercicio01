@@ -13,7 +13,7 @@ namespace Exercicio27
             int atual = 0;
             int proximo = 1;
             int anterior = 0;
-            string resultado = "0 ";
+            string resultado = "1 ";
 
             for (int i = 0; i < 20; i++)
             {
